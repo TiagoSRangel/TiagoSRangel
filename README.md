@@ -5,7 +5,6 @@ I'm a Full stack Developer. I consider myself a passionate tech person who loves
 - 📓 Self-taugh;
 - 🌱 Learning Javascript, React, Python/PostgreSQL;
 - 🔭 I'm currently making a website portfolio;
----
 
 <section align="center">
   <h3>Skills:</h3>
