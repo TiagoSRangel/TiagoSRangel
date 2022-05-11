@@ -1,6 +1,26 @@
-## Hi, my name is Tiago Rangel 👋
+## Hi, I'm Tiago Rangel. 👋
 
-I'm a Full stack Developer
+I'm a Full stack Developer. I consider myself a passionate tech person who loves to code. I'm always looking to improve and learn new things.
+
+- 📓 Self-taugh
+- 🌱 Learning Javascript, React, Python/PostgreSQL
+
+---
+
+**Skills:**
+<div >
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img height="40" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+</div>
+
+**Social Media:**
 
 <div align="center">
   <a href="https://github.com/TiagoSRangel">
@@ -8,8 +28,6 @@ I'm a Full stack Developer
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSRangel&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
   
- ## My Skills 
+ 
 
-<div>
- <img height="40" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-256.png"> 
-</div>
+
