@@ -3,7 +3,7 @@
 I'm a Full stack Developer. I consider myself a passionate tech person who loves to code. I'm always looking to improve and learn new things.
 
 - 📓 Self-taugh;
-- 🌱 Learning Javascript, React, Python/PostgreSQL;
+- 🌱 Learning Odoo, Python/PostgreSQL;
 - 🔭 I'm currently making a website portfolio;
 
 <section align="center">
